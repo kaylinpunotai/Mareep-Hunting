@@ -1,0 +1,43 @@
+[
+  {
+    "position": 1,
+    "title": "Official Mareep Happy Spring Plush Key Chain",
+    "link": "https://www.pokemoncenter.com/product/701-97644/?utm_source=google&utm_medium=organic&utm_campaign=shopping&utm_term=701-97644",
+    "source": "pokemoncenter.com",
+    "price": "$13.99",
+    "extracted_price": 13.99,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQqvt5TFOgm7Ur5-346MyodSHjehNj1DB5YCmjUWwvly_MKdMLzpNHDp9ICE95eYdRQh3gb6BBt2AfS02Tct4UeBi4qqDkQxYv_ms94E_DJNua_42DH7XtHNw&usqp=CAE",
+    "delivery": "$5.98 delivery",
+    "store_rating": 4.6,
+    "store_reviews": 539
+  },
+  {
+    "position": 2,
+    "title": "Cafe Bustelo Ground Coffee - 10 oz",
+    "link": "https://www.walmart.com/ip/Cafe-Bustelo-7441701720-10-oz-Espresso-Coffee-Brick-Pack/10543909?wmlspartner=wlpa&selectedSellerId=0",
+    "product_link": "https://www.google.com/shopping/product/1780156926901513261",
+    "product_id": "1780156926901513261",
+    "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1780156926901513261",
+    "number_of_comparisons": "10+",
+    "comparison_link": "https://www.google.com/shopping/product/1780156926901513261/offers?q=Coffee&hl=en&gl=us&prds=eto:11304767740140502786_0,pid:11308415115410134247,rsk:PC_10062721340579179887&sa=X&ved=0ahUKEwiyx-GjkPr9AhX7EFkFHYOMBBcQ3q4ECLMR",
+    "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A11304767740140502786_0%2Cpid%3A11308415115410134247%2Crsk%3APC_10062721340579179887&gl=us&hl=en&offers=1&product_id=1780156926901513261&sa=X&ved=0ahUKEwiyx-GjkPr9AhX7EFkFHYOMBBcQ3q4ECLMR",
+    "source": "Walmart",
+    "price": "$3.27",
+    "extracted_price": 3.27,
+    "rating": 4.7,
+    "reviews": 2426,
+    "extensions": [
+      "Dark Roast",
+      "Ground",
+      "Kosher",
+      "$0.71 below typical",
+      "LOW PRICE"
+      ],
+    "badge": "Trusted store",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQyuAK2w11XDBuveF_Kcv1R_2iNZpQCSjqEQIEbUHYWiyXeC4JdvP-PVu7Skl7tEGrnXSTpSBbc5gRCv1dcBE-leZ6hUGK5LnLmuFCLu_2k_yge7n-RPkCoGA&usqp=CAE",
+    "tag": "LOW PRICE",
+    "delivery": "Delivery by Thu, Mar 30 · Free 90-day returns",
+    "store_rating": 4.4,
+    "store_reviews": 1100
+  }
+]
